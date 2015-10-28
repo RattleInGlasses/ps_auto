@@ -1,1 +1,1 @@
-# ps_auto
+Automata theory tasks made by an IPS student.
